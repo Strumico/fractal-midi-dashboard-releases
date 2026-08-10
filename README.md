@@ -9,14 +9,14 @@ The app source code lives in a **private** repository. This repo only hosts inst
 ## Install the app (on the phone)
 
 1. Open the latest release:  
-   **https://github.com/CJ18874/fractal-midi-dashboard-releases/releases/latest**
+   **https://github.com/Strumico/fractal-midi-dashboard-releases/releases/latest**
 2. Download **`FractalMIDI-vX.Y.Z.apk`** only (ignore GitHub’s auto “Source code” zip/tar links).
 3. If Android asks, allow **Install unknown apps** for Chrome or Files.
 4. Tap the downloaded file → **Install**.
 5. Open **Fractal MIDI Dashboard**.
 
 Direct link (current):  
-**https://github.com/CJ18874/fractal-midi-dashboard-releases/releases/download/v1.12.0/FractalMIDI-v1.12.0.apk**
+**https://github.com/Strumico/fractal-midi-dashboard-releases/releases/download/v1.12.0/FractalMIDI-v1.12.0.apk**
 
 ---
 
