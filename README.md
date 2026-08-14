@@ -15,8 +15,6 @@ The app source code lives in a **private** repository. This repo only hosts inst
 4. Tap the downloaded file → **Install**.
 5. Open **Fractal MIDI Dashboard**.
 
-Direct link (current):  
-**https://github.com/Strumico/fractal-midi-dashboard-releases/releases/download/v1.12.0/FractalMIDI-v1.12.0.apk**
 
 ---
 
