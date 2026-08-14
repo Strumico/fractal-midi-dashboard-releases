@@ -61,6 +61,3 @@ On the FM9 go to **SETUP → MIDI/Remote**:
 
 ---
 
-## Support / source
-
-Source code is private. For issues or access, contact the repo owner.
